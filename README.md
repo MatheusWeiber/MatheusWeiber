@@ -1,9 +1,41 @@
-<p align="left">Hello World!!<br><br># 👋 Olá! Pode me chamar por Matheus<br><br>Eu sou um entusiasta de tecnologia e estudante focado em transformar dados em soluções inteligentes.<br><br>- 🔭 Atualmente estou trabalhando em meu sistema de monitoramento IoT com ESP8266 e Flespi, e em projetos de Data Science.<br>- 🌱 Estou sempre aprendendo mais sobre Redes Neurais, MLOps e Machine Learning.<br>- 💬 Me chame para falar sobre: Inteligência Artificial, Big Data, IoT e carros!<br><br>
-### 🚀 Minhas Habilidades e Competências<br><br>Tenho focado meus estudos e projetos na interseção entre **Inteligência Artificial**, **Ciência de Dados** e **Internet das Coisas (IoT)**.<br><br>
-#### 📊 Ciência de Dados e Machine Learning<br>* Experiência prática na implementação de **Redes Neurais** (como Multi-Layer Perceptron - MLP) para análise e classificação de dados (ex: dataset Covertype).<br>* Desenvolvimento de projetos de **Análise de Sentimento** e **Processamento de Linguagem Natural (NLP)** em datasets de e-commerce (ex: Olist).<br>* Competência em **Análise Estatística** e normalização de texto em larga escala.<br><br>
-#### 🔌 IoT e Hardware<br>* Projetos de hardware e software com microcontroladores **ESP8266** e **ESP32**.<br>* Integração de diversos sensores (como **DHT11** para temperatura/umidade e **MQ135** para qualidade do ar) e atuadores (relés).<br>* Conhecimento em plataformas de IoT (como **Flespi**) e integração com bancos de dados em tempo real (como **Supabase**) para monitoramento remoto.<br>* Desenvolvimento de sistemas autônomos, como robôs para navegação em percursos definidos.<br><br>
-### 📬 Entre em Contato<br><br><p align="left"><br><a href="mailto:Mathuesweiber2330@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><br><a href="https://www.linkedin.com/in/matheus-weiber-809148233/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><br></p><br><br>
-### 🏎️ Fora do Código<br><br>Quando não estou programando, meu foco se volta para a mecânica e performance:<br>* Meu projeto pessoal é a preparação de um **Golf MK4 2.0 (EA827)**, com o objetivo de preparar o motor para performance, além de ter uma **Tenere 1200 para viagens**.<br>* Também sou um entusiasta de games, principalmente **Counter Strike**, **League of Legends** e **CoD**.<br>* Aprecio música, como **Alice in Chains** e **Symphony X**.</p>
+Hello World!!
+
+# 👋 Olá! Pode me chamar por Matheus
+
+Eu sou um entusiasta de tecnologia e estudante focado em transformar dados em soluções inteligentes.
+
+- 🔭 Atualmente estou trabalhando em meu sistema de monitoramento IoT com ESP8266 e Flespi, e em projetos de Data Science.
+- 🌱 Estou sempre aprendendo mais sobre Redes Neurais, MLOps e Machine Learning.
+- 💬 Me chame para falar sobre: Inteligência Artificial, Big Data, IoT e carros!
+
+### 🚀 Minhas Habilidades e Competências
+
+Tenho focado meus estudos e projetos na interseção entre **Inteligência Artificial**, **Ciência de Dados** e **Internet das Coisas (IoT)**.
+
+#### 📊 Ciência de Dados e Machine Learning
+* Experiência prática na implementação de **Redes Neurais** (como Multi-Layer Perceptron - MLP) para análise e classificação de dados (ex: dataset Covertype).
+* Desenvolvimento de projetos de **Análise de Sentimento** e **Processamento de Linguagem Natural (NLP)** em datasets de e-commerce (ex: Olist).
+* Competência em **Análise Estatística** e normalização de texto em larga escala.
+
+#### 🔌 IoT e Hardware
+* Projetos de hardware e software com microcontroladores **ESP8266** e **ESP32**.
+* Integração de diversos sensores (como **DHT11** para temperatura/umidade e **MQ135** para qualidade do ar) e atuadores (relés).
+* Conhecimento em plataformas de IoT (como **Flespi**) e integração com bancos de dados em tempo real (como **Supabase**) para monitoramento remoto.
+* Desenvolvimento de sistemas autônomos, como robôs para navegação em percursos definidos.
+
+### 📬 Entre em Contato
+
+<p align="left">
+<a href="mailto:Mathuesweiber2330@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/matheus-weiber-809148233/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</p>
+
+### 🏎️ Fora do Código
+
+Quando não estou programando, meu foco se volta para a mecânica e performance:
+* Meu projeto pessoal é a preparação de um **Golf MK4 2.0 (EA827)**, com o objetivo de preparar o motor para performance, além de ter uma **Tenere 1200 para viagens**.
+* Também sou um entusiasta de games, principalmente **Counter Strike**, **League of Legends** e **CoD**.
+* Aprecio música, como **Alice in Chains** e **Symphony X**.
 
 ###
 
