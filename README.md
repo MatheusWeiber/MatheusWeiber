@@ -37,15 +37,9 @@ Quando não estou programando, meu foco se volta para a mecânica e performance:
 * Também sou um entusiasta de games, principalmente **Counter Strike**, **League of Legends** e **CoD**.
 * Aprecio música, como **Alice in Chains** e **Symphony X**.
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=cauce345)
-
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/https://open.spotify.com/user/cauce345">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=https://open.spotify.com/user/cauce345&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=cauce345)
 
 ###
 
