@@ -37,6 +37,8 @@ Quando não estou programando, meu foco se volta para a mecânica e performance:
 * Também sou um entusiasta de games, principalmente **Counter Strike**, **League of Legends** e **CoD**.
 * Aprecio música, como **Alice in Chains** e **Symphony X**.
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=cauce345)
+
 ###
 
 <div align="center">
@@ -76,12 +78,4 @@ Quando não estou programando, meu foco se volta para a mecânica e performance:
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MatheusWeiber&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatheusWeiber/MatheusWeiber/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MatheusWeiber/MatheusWeiber/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MatheusWeiber/MatheusWeiber/output/pacman-contribution-graph.svg">
-</picture>
-
-###
