@@ -1,16 +1,55 @@
-## Hi there 👋
+<p align="left">Hello World!!<br><br># 👋 Olá! Pode me chamar por Matheus<br><br>Eu sou um entusiasta de tecnologia e estudante focado em transformar dados em soluções inteligentes.<br><br>- 🔭 Atualmente estou trabalhando em meu sistema de monitoramento IoT com ESP8266 e Flespi, e em projetos de Data Science.<br>- 🌱 Estou sempre aprendendo mais sobre Redes Neurais, MLOps e Machine Learning.<br>- 💬 Me chame para falar sobre: Inteligência Artificial, Big Data, IoT e carros!<br><br>
+### 🚀 Minhas Habilidades e Competências<br><br>Tenho focado meus estudos e projetos na interseção entre **Inteligência Artificial**, **Ciência de Dados** e **Internet das Coisas (IoT)**.<br><br>
+#### 📊 Ciência de Dados e Machine Learning<br>* Experiência prática na implementação de **Redes Neurais** (como Multi-Layer Perceptron - MLP) para análise e classificação de dados (ex: dataset Covertype).<br>* Desenvolvimento de projetos de **Análise de Sentimento** e **Processamento de Linguagem Natural (NLP)** em datasets de e-commerce (ex: Olist).<br>* Competência em **Análise Estatística** e normalização de texto em larga escala.<br><br>
+#### 🔌 IoT e Hardware<br>* Projetos de hardware e software com microcontroladores **ESP8266** e **ESP32**.<br>* Integração de diversos sensores (como **DHT11** para temperatura/umidade e **MQ135** para qualidade do ar) e atuadores (relés).<br>* Conhecimento em plataformas de IoT (como **Flespi**) e integração com bancos de dados em tempo real (como **Supabase**) para monitoramento remoto.<br>* Desenvolvimento de sistemas autônomos, como robôs para navegação em percursos definidos.<br><br>
+### 📬 Entre em Contato<br><br><p align="left"><br><a href="mailto:Mathuesweiber2330@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><br><a href="https://www.linkedin.com/in/matheus-weiber-809148233/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><br></p><br><br>
+### 🏎️ Fora do Código<br><br>Quando não estou programando, meu foco se volta para a mecânica e performance:<br>* Meu projeto pessoal é a preparação de um **Golf MK4 2.0 (EA827)**, com o objetivo de preparar o motor para performance, além de ter uma **Tenere 1200 para viagens**.<br>* Também sou um entusiasta de games, principalmente **Counter Strike**, **League of Legends** e **CoD**.<br>* Aprecio música, como **Alice in Chains** e **Symphony X**.</p>
 
-<!--
-**MatheusWeiber/MatheusWeiber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://open.spotify.com/user/https://open.spotify.com/user/cauce345">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=https://open.spotify.com/user/cauce345&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=wave&height=100&section=footer&reversal=false&text=Minhas%20Habilidades&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MatheusWeiber&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MatheusWeiber&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatheusWeiber/MatheusWeiber/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MatheusWeiber/MatheusWeiber/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MatheusWeiber/MatheusWeiber/output/pacman-contribution-graph.svg">
+</picture>
+
+###
